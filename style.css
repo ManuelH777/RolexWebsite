@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+div{
+    font-family: Garamond;
+    background-color: #006039;
+    color: white;
+    font-size: 23px;
+    padding: 45px;
+
+}
+
+
+#fav{
+    position: absolute;
+  right: 135px;
+  top: 3px;
+}
+
+#loc{
+    position: absolute;
+    right: 300px;
+    top: 3px;
+}
+
+#se{
+    position: absolute;
+    right: 540px;
+    top: 3px;
+}
+
+#crown{
+    position: absolute;
+    right: 920px;
+    top: 35px;
+    background-color: #006039;
+}
+
+#menu{
+    position: absolute;
+    right: 1700px;
+    top: 3px;
+}
+
+#empty{
+    background-color: #006039;
+    padding: 60px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #006039;
+}
+#vid{
+    position: absolute;
+    width: 100%;
+}
+
